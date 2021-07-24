@@ -1,7 +1,7 @@
 # GR-ArtPrize-FoliumMap
 
 Due to Github not cooperating with Folium maps because of JavaScript plots, link to this project in my binder.  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ambush3/GR-ArtPrize-FoliumMap/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Ambush3/GR-ArtPrize-FoliumMap/main)
 
 I created a map showing the Grand Rapids Art Prize art locations around the city of Grand Rapids, Michigan.
 Using Folium, Matplotlib.pyplot, and Pandas.
